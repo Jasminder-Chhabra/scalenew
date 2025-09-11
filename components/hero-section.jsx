@@ -1,11 +1,10 @@
-"use client";
-
-import React, { useRef } from "react";
-import { Canvas, useFrame } from "@react-three/fiber";
-import * as THREE from "three";
+"use client"
+import React, { useRef } from 'react';
+import { Canvas, useFrame } from '@react-three/fiber';
+import { Shape, ExtrudeGeometry } from 'three';
 
 const Box = ({ position, rotation }) => {
-   const shape = new THREE.Shape();
+    const shape = new Shape();
     const angleStep = Math.PI * 0.5;
     const radius = 1;
 
