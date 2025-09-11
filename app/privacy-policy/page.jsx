@@ -144,7 +144,7 @@ export default function Policy() {
                 <h1 className="bringer-page-title" data-appear="fade-up" data-unload="fade-up">Privacy Policy
 </h1>
                 <p className="bringer-large-text" data-appear="fade-up" data-unload="fade-up">
-At Scale Us, accessible from <Link href="https://scaleus.in/" >https://scaleus.in/</Link> one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Scale Us and how we use it.
+At Scale Us, accessible from <a href="https://scaleus.in/" >https://scaleus.in/</a> one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Scale Us and how we use it.
 
 
 
