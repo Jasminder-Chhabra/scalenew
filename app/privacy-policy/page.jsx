@@ -236,7 +236,7 @@ We also may partner with certain third parties to collect, analyze, and use some
         <h2 className="text-3xl font-semibold mb-2 text-md">Cookies and Web Beacons</h2>
         <p  data-appear="fade-up" data-unload="fade-up">
           Like most websites, Scale Us uses cookies to store visitor preferences and accessed pages to enhance user experience.
-          For general cookie info, see <Link href="https://www.cookieconsent.com/what-are-cookies/" className="text-purple-600 underline">What Are Cookies</a>.
+          For general cookie info, see <Link href="https://www.cookieconsent.com/what-are-cookies/" className="text-purple-600 underline">What Are Cookies</Link>.
         </p>
       </div>
 
@@ -307,7 +307,7 @@ We also may partner with certain third parties to collect, analyze, and use some
       </div>
 
       <footer className="text-sm text-gray-500 mt-12"  data-appear="fade-up" data-unload="fade-up">
-        <p>If you have any questions about this policy, contact us at <Link href="mailto:contact@scaleus.com" className="text-purple-600 underline">contact@scaleus.com</a>.</p>
+        <p>If you have any questions about this policy, contact us at <Link href="mailto:contact@scaleus.com" className="text-purple-600 underline">contact@scaleus.com</Link>.</p>
       </footer>
           </section>
     
