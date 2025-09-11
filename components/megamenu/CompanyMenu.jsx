@@ -1,19 +1,18 @@
+"use client";
 import React from 'react'
 import { motion } from 'framer-motion';
 
 import {
   Briefcase,
-  Newspaper,
-  Scale,
+
   Lock,
   ShieldCheck,
   BookOpen,
   HelpCircle,
-  Info,
-  Contact
+  Info
 } from 'lucide-react';
 import Link from "next/link";
-import { QuestionMarkCircledIcon } from '@radix-ui/react-icons';
+// import { QuestionMarkCircledIcon } from '@radix-ui/react-icons';
 const CompanyMenu = () => {
   return (
       <motion.div

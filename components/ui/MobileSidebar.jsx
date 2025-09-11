@@ -1,4 +1,4 @@
-// components/MobileSidebar.js
+"use client";
 import { X, ChevronRight, ChevronDown } from 'lucide-react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';

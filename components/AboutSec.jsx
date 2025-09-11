@@ -1,7 +1,7 @@
 
 import React from 'react';
-import { CategoryList, Category } from '@/components/category-list';
-import { LayoutGrid, Bot, Code, Palette, ArrowRight, TvMinimal, TextCursor, Rocket, Cloud, Brain, Newspaper, ShoppingBag } from 'lucide-react';
+import { CategoryList } from '@/components/category-list';
+import {  Code, TvMinimal,  Rocket, Cloud, Brain, Newspaper, ShoppingBag } from 'lucide-react';
 import { PersonIcon } from '@radix-ui/react-icons';
 import { StarIcon } from 'lucide-react/dist/cjs/lucide-react';
 

@@ -5,7 +5,7 @@ import { Canvas, useFrame } from "@react-three/fiber";
 import * as THREE from "three";
 
 const Box = ({ position, rotation }) => {
-    const shape = new Shape();
+   const shape = new THREE.Shape();
     const angleStep = Math.PI * 0.5;
     const radius = 1;
 

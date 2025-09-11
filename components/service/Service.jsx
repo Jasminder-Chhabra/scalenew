@@ -1,3 +1,5 @@
+"use client";
+
 import { Gravity, MatterBody } from "@/components/ui/gravity";
 import { motion } from "framer-motion";
 function Preview() {
