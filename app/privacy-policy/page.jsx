@@ -144,7 +144,7 @@ export default function Policy() {
                 <h1 className="bringer-page-title" data-appear="fade-up" data-unload="fade-up">Privacy Policy
 </h1>
                 <p className="bringer-large-text" data-appear="fade-up" data-unload="fade-up">
-At Scale Us, accessible from <a href="https://scaleus.in/" >https://scaleus.in/</a> one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Scale Us and how we use it.
+At Scale Us, accessible from <Link href="https://scaleus.in/" >https://scaleus.in/</Link> one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Scale Us and how we use it.
 
 
 
@@ -159,7 +159,7 @@ At Scale Us, accessible from <a href="https://scaleus.in/" >https://scaleus.in/<
         <p  data-appear="fade-up" data-unload="fade-up">
          This privacy notice for Scale Us, Inc. ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 
-Visit our website at <Link href="https://scaleus.in/" >https://scaleus.in/</a>, or any website of ours that links to this privacy notice
+Visit our website at <Link href="https://scaleus.in/" >https://scaleus.in/</Link>, or any website of ours that links to this privacy notice
 
 Engage with us in other related ways, including any sales, marketing, or events
 Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have questions or concerns, please contact us at contact@scaleus.in
