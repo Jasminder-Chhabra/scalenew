@@ -1,7 +1,6 @@
 import { Scene } from "@/components/hero-section";
 import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge";
-import { LucideIcon, Cpu, ShieldCheck, Layers, Zap, Eye, EarthLock, Presentation, Diamond, Gem, Brain } from "lucide-react";
+import {  Cpu,  EarthLock,  Gem, Brain } from "lucide-react";
 import Link from "next/link";
 
 const features = [

@@ -14,9 +14,9 @@ import "../public/css/config.css";
 import "../public/css/libs.css";
 import "../public/css/style.css";
 import "../public/css/responsive.css";
-// import Achievement from "@/components/ui/Achivement";
+import Achievement from "@/components/ui/Achivement";
 import Header from "@/components/Header";
-// import { Herooo } from "@/components/home1/Hero6";
+import { Herooo } from "@/components/home1/Hero6";
 import Footer from "@/components/Footer";
 import Image from "next/image";
 
@@ -214,7 +214,7 @@ export default function Home() {
       <Header />
 
 
-      {/* <Herooo/> */}
+      <Herooo/>
       
       <main
         id="bringer-main"
@@ -852,7 +852,7 @@ export default function Home() {
           </section>
 
           <section data-padding="none" className="py-6" data-unload="fade-down">
-            {/* <Achievement /> */}
+            <Achievement />
           </section>
 
           <section className="hide-on-mobile-tab" data-unload="fade-down">

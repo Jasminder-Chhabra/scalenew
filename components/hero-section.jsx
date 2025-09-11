@@ -1,6 +1,8 @@
-import React, { useRef } from 'react';
-import { Canvas, useFrame } from '@react-three/fiber';
-import { Shape, ExtrudeGeometry } from 'three';
+"use client";
+
+import React, { useRef } from "react";
+import { Canvas, useFrame } from "@react-three/fiber";
+import * as THREE from "three";
 
 const Box = ({ position, rotation }) => {
     const shape = new Shape();
