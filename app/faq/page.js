@@ -1,9 +1,7 @@
 // app/faq/page.js
 "use client";
 
-import { useEffect } from 'react';
 import Head from 'next/head';
-import Link from 'next/link';
 import Script from 'next/script';
 import '../../public/css/config.css';
 import '../../public/css/libs.css';
@@ -12,6 +10,7 @@ import ".././globals.css";
 import '../../public/css/responsive.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import Image from 'next/image';
 
 export default function FAQ() {
 

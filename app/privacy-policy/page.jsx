@@ -10,6 +10,7 @@ import '../../public/css/responsive.css';
 import Header from '@/components/Header';
 import ".././globals.css";
 import Footer from '@/components/Footer';
+import Link from 'next/link';
 
 export default function Policy() {
   return (
