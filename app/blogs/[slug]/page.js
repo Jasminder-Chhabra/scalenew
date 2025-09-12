@@ -180,7 +180,7 @@ export default function blog({params}) {
       <Script id="vercel-speed-insights" strategy="afterInteractive">{`
         window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
       `}</Script>
-      <Script defer src="/_vercel/speed-insights/script.js" strategy="afterInteractive" />
+      {/*{/* <Script defer src="/_vercel/speed-insights/script.js" strategy="afterInteractive" /> */} */}
     </>
   );
 }

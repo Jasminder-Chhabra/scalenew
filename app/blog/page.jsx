@@ -247,15 +247,15 @@ Read the Scale Us blog to learn more about Scale Us newest Products and updates,
         gtag('js', new Date());
         gtag('config', 'G-PPS5N5K987');
       `}</Script>
-      <Script defer src="https://analytics.scaleus.in/pixel/BjeYvwOLp4Y0llG4" strategy="afterInteractive" />
+      {/* <Script defer src="https://analytics.scaleus.in/pixel/BjeYvwOLp4Y0llG4" strategy="afterInteractive" /> */}
       <Script id="vercel-analytics" strategy="afterInteractive">{`
         window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
       `}</Script>
-      <Script defer src="/_vercel/insights/script.js" strategy="afterInteractive" />
+      {/* <Script defer src="/_vercel/insights/script.js" strategy="afterInteractive" /> */}
       <Script id="vercel-speed-insights" strategy="afterInteractive">{`
         window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
       `}</Script>
-      <Script defer src="/_vercel/speed-insights/script.js" strategy="afterInteractive" />
+      {/*{/* <Script defer src="/_vercel/speed-insights/script.js" strategy="afterInteractive" /> */} */}
     </>
   );
 }

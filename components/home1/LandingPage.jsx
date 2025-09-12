@@ -325,7 +325,7 @@ export default function LandingPage() {
                 <div className="bringer-portfolio-card-image">
                   <Image
                     className="bringer-lazy"
-                    src="/img/null.png"
+                    src="/img/portfolio/portfolio01.jpg"
                     data-src="/img/portfolio/portfolio01.jpg"
                     alt=""
                     width="1200"
@@ -352,7 +352,7 @@ export default function LandingPage() {
                 <div className="bringer-portfolio-card-image">
                   <Image
                     className="bringer-lazy"
-                    src="/img/null.png"
+                    src="/img/portfolio-single-img/natrax.png"
                     data-src="/img/portfolio-single-img/natrax.png"
                     alt=""
                     width="1200"
@@ -379,7 +379,7 @@ export default function LandingPage() {
                 <div className="bringer-portfolio-card-image">
                   <Image
                     className="bringer-lazy"
-                    src="/img/null.png"
+                    src="/img/portfolio-single-img/salah.png"
                     data-src="/img/portfolio-single-img/salah.png"
                     alt=""
                     width="1200"
@@ -406,7 +406,7 @@ export default function LandingPage() {
                 <div className="bringer-portfolio-card-image">
                   <Image
                     className="bringer-lazy"
-                    src="/img/null.png"
+                    src="/img/portfolio-single-img/simpletap.png"
                     data-src="/img/portfolio-single-img/simpletap.png"
                     alt=""
                     width="1200"
@@ -710,7 +710,7 @@ export default function LandingPage() {
                     <div className="bringer-portfolio-card-image">
                       <Image
                         className="bringer-lazy"
-                        src="/img/null.png"
+                        src="/img/portfolio/portfolio01.jpg"
                         data-src="/img/portfolio/portfolio01.jpg"
                         alt=""
                         width="1200"
@@ -733,7 +733,7 @@ export default function LandingPage() {
                     <div className="bringer-portfolio-card-image">
                       <Image
                         className="bringer-lazy"
-                        src="/img/null.png"
+                        src="/img/portfolio-img/7eleven/img1.jpg"
                         data-src="/img/portfolio-img/7eleven/img1.jpg"
                         alt=""
                         width="1200"
@@ -757,7 +757,7 @@ export default function LandingPage() {
                     <div className="bringer-portfolio-card-image">
                       <Image
                         className="bringer-lazy"
-                        src="/img/null.png"
+                        src="/img/portfolio-single-img/simpletap.png"
                         data-src="/img/portfolio-single-img/simpletap.png"
                         alt=""
                         width="1200"
@@ -781,7 +781,7 @@ export default function LandingPage() {
                     <div className="bringer-portfolio-card-image">
                       <Image
                         className="bringer-lazy"
-                        src="/img/null.png"
+                        src="/img/portfolio-single-img/natrax.png"
                         data-src="/img/portfolio-single-img/natrax.png"
                         alt=""
                         width="1200"
