@@ -1000,11 +1000,7 @@ export default function LandingPage() {
           }
         })();
       `}</Script>
-      <Script src="/js/lib/libs.js" strategy="afterInteractive" />
-      <Script src="/js/contact_form.js" strategy="afterInteractive" />
-      <Script src="/js/st-core.js" strategy="afterInteractive" />
-      <Script src="/js/classes.js" strategy="afterInteractive" />
-      <Script src="/js/main.js" strategy="afterInteractive" />
+   
       <Script
         src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js"
         strategy="lazyOnload"

@@ -3,12 +3,7 @@
 
 import Head from 'next/head';
 import Script from 'next/script';
-import '../../public/css/config.css';
-import '../../public/css/libs.css';
-import '../../public/css/style.css';
-import '../../public/css/responsive.css';
 import Header from '@/components/Header';
-import ".././globals.css";
 import FirstSection from '@/components/become partner/Card';
 import Image from 'next/image';
 import { AccordionDemo } from '@/components/become partner/Accordian';
@@ -232,11 +227,7 @@ export default function partner() {
           }
         })();
       `}</Script>
-      <Script src="/js/lib/libs.js" strategy="afterInteractive" />
-      <Script src="/js/contact_form.js" strategy="afterInteractive" />
-      <Script src="/js/st-core.js" strategy="afterInteractive" />
-      <Script src="/js/classes.js" strategy="afterInteractive" />
-      <Script src="/js/main.js" strategy="afterInteractive" />
+  
       <Script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" strategy="lazyOnload" />
       <Script async src="https://www.googletagmanager.com/gtag/js?id=G-PPS5N5K987" strategy="afterInteractive" />
       <Script id="gtag-init" strategy="afterInteractive">{`

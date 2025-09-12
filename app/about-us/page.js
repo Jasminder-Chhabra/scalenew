@@ -1,7 +1,5 @@
 // app/about-us/page.js
 "use client";
-
-import { useEffect, useState } from "react";
 import Head from "next/head";
 import Link from "next/link";
 import Script from "next/script";
@@ -13,14 +11,7 @@ import "swiper/css/pagination";
 SwiperCore.use([Pagination]);
 
 // Import CSS files (ensure these are in /public/css/)
-import ".././globals.css";
-import "../../public/css/config.css";
-import "../../public/css/libs.css";
-import "../../public/css/style.css";
-import "../../public/css/responsive.css";
 import Header from "@/components/Header";
-import AnimatedSection from "@/components/ui/DevelopmentService";
-import MobileServicesSection from "@/components/ui/DevelopmentWebsiteMobile";
 import Footer from "@/components/Footer";
 import CategoryListDemo from "@/components/AboutSec";
 import Image from "next/image";
@@ -1048,11 +1039,7 @@ export default function AboutUs() {
             }
           })();
         `}</Script>
-        <Script src="/js/lib/libs.js" strategy="afterInteractive" />
-        <Script src="/js/contact_form.js" strategy="afterInteractive" />
-        <Script src="/js/st-core.js" strategy="afterInteractive" />
-        <Script src="/js/classes.js" strategy="afterInteractive" />
-        <Script src="/js/main.js" strategy="afterInteractive" />
+      
         {/* <Script src="https://analytics.scaleus.in/pixel/hgnkSqeXvUBFyYGj" strategy="lazyOnload" /> */}
         <Script
           src="/_vercel/insights/script.js"

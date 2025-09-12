@@ -7,11 +7,6 @@ import Link from 'next/link';
 import Script from 'next/script';
 
 // Import CSS files (ensure these are in /public/css/)
-import '../../public/css/config.css';
-import '../../public/css/libs.css';
-import '../../public/css/style.css';
-import '../../public/css/responsive.css';
-import ".././globals.css";
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Image from 'next/image';
@@ -396,11 +391,7 @@ export default function ContactUs() {
             }
           })();
         `}</Script>
-        <Script src="/js/lib/libs.js" strategy="afterInteractive" />
-        <Script src="/js/contact_form.js" strategy="afterInteractive" />
-        <Script src="/js/st-core.js" strategy="afterInteractive" />
-        <Script src="/js/classes.js" strategy="afterInteractive" />
-        <Script src="/js/main.js" strategy="afterInteractive" />
+
         <Script src="https://analytics.scaleus.in/pixel/h7JQjaRBn2Nmkvy6" strategy="lazyOnload" />
         <Script src="/_vercel/insights/script.js" strategy="lazyOnload" dangerouslySetInnerHTML={{ __html: `window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };` }} />
         <Script src="/_vercel/speed-insights/script.js" strategy="lazyOnload" dangerouslySetInnerHTML={{ __html: `window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };` }} />
