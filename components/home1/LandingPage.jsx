@@ -11,7 +11,7 @@ import "../../public/css/libs.css";
 import "../../public/css/style.css";
 import "../../public/css/responsive.css";
 import Achievement from "@/components/ui/Achivement";
-// import { Herooo } from "@/components/home1/Hero6";
+import { Herooo } from "@/components/home1/Hero6";
 import Footer from "@/components/Footer";
 import Image from "next/image";
 import Section6 from "@/components/home1/Section6";
@@ -27,7 +27,7 @@ export default function LandingPage() {
 
 
 
-      {/* <Herooo/> */}
+      <Herooo/>
       
       <main
         id="bringer-main"

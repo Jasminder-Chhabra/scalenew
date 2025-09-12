@@ -2,7 +2,13 @@ import { Scene } from "@/components/hero-section";
 import { Button } from "@/components/ui/button";
 import {  Cpu,  EarthLock,  Gem, Brain } from "lucide-react";
 import Link from "next/link";
+import dynamic from "next/dynamic";
 
+
+const Elem = dynamic(() => import("@/components/hero-section").then(m => m.Scene), {
+  ssr: false, // prevents server-side rendering
+  loading: () => <div className="absolute inset-0 w-full h-full bg-gradient-to-br from-black to-[#1A2428]" />, // fallback while loading
+});
 const features = [
   {
     icon: Cpu,
@@ -70,7 +76,7 @@ const Herooo = () => {
       </div>
   <div className="absolute inset-0 w-full h-full ">
 
-                  <Scene />
+                  <Elem />
           </div>
     </div>
     
