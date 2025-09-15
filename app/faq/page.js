@@ -11,6 +11,7 @@ export default function FAQ() {
 
 
   return (
+      <>
     <div>
       <Head>
         <meta charSet="UTF-8" />
@@ -216,5 +217,9 @@ export default function FAQ() {
 
     
     </div>
+  
+      <Script src="/js/lib/jquery.min.js" strategy="beforeInteractive" />
+    </>
+    
   );
 }

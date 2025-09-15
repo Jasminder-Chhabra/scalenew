@@ -106,7 +106,7 @@ const Footer = () => {
                   <div className="bringer-menu-widget">
                     <ul>
                       <li><Link href="/services/android" data-appear="fade-up" data-unload="fade-down">App Development</Link></li>
-                      <li><Link href="/services/frontend" data-appear="fade-up" data-unload="fade-down">Web Development</Link></li>
+                      <li><Link href="/services/fullstack" data-appear="fade-up" data-unload="fade-down">Web Development</Link></li>
                       <li><Link href="/services/design" data-appear="fade-up" data-unload="fade-down"> UI/UX</Link></li>
                       <li><Link href="/services/saas" data-appear="fade-up" data-unload="fade-down">SaaS Development</Link></li>
                       <li><Link href="/services" data-appear="fade-up" data-unload="fade-down">Services</Link></li>
