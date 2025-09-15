@@ -10,6 +10,7 @@ import '../../../public/css/libs.css';
 import '../../../public/css/style.css';
 import '../../../public/css/responsive.css';
 import Header from '@/components/Header';
+import Image from 'next/image';
 import "../.././globals.css"
 import { Preview } from '@/components/service/Service';
 import MobileServicesSection from '@/components/ui/DevelopmentWebsiteMobile';
