@@ -213,13 +213,8 @@ export default function FAQ() {
 
       <div className="bringer-backlight"></div>
 
-      <Script async src="https://www.googletagmanager.com/gtag/js?id=G-PPS5N5K987" strategy="afterInteractive" />
-      <Script id="gtag-init" strategy="afterInteractive">{`
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-PPS5N5K987');
-      `}</Script>
+
+    
     </div>
   );
 }
