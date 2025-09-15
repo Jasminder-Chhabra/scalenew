@@ -3,7 +3,7 @@ import React, { useRef, useMemo } from "react";
 import { Canvas, useFrame } from "@react-three/fiber";
 import * as THREE from "three";
 
-// === Single Box Component ===
+
 const Box = ({ position, rotation }) => {
   const geometry = useMemo(() => {
     const shape = new THREE.Shape();
