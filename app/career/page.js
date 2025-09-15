@@ -7,6 +7,7 @@ import Link from 'next/link';
 import Script from 'next/script';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import { Button } from '@/components/ui/button';
 export default function Career() {
   // Form Submission
   const [formData, setFormData] = useState({
@@ -249,70 +250,87 @@ console.log(formData)
               data-unload="fade-up"
             >
               <a href="https://www.linkedin.com/company/scale-us-technologies/jobs/" target="_blank" rel="noopener noreferrer">
-                <div className="bringer-icon-box bringer-block">
+                <div className="bringer-icon-box bringer-block !gap-y-8">
                   <h4>PHP / Laravel Developer<span className="bringer-accent">.</span></h4>
                   <p className="bringer-large-text">
                     Experience: 2 to 8 Years <br />
                     Location: Remote / Work From Home / Hybrid <br />
                     Salary: As per industry standard / Negotiable
+                 <br/>
+                  <a href='#form' className='text-white'>  <Button className="mt-4 text-center px-5" > Apply Now </Button> </a>
                   </p>
                 </div>
               </a>
               <a href="https://www.linkedin.com/company/scale-us-technologies/jobs/" target="_blank" rel="noopener noreferrer">
-                <div className="bringer-icon-box bringer-block">
+                <div className="bringer-icon-box bringer-block !gap-y-8">
                   <h4>React Native<span className="bringer-accent">.</span></h4>
                   <p className="bringer-large-text">
                     Experience: 2 to 8 Years <br />
                     Location: Remote / Work From Home / Hybrid <br />
                     Salary: As per industry standard / Negotiable
+                     <br/>
+                  <a href='#form' className='text-white'>  <Button className="mt-4 text-center px-5" > Apply Now </Button> </a>
+                  
                   </p>
                 </div>
               </a>
               <a href="https://www.linkedin.com/company/scale-us-technologies/jobs/" target="_blank" rel="noopener noreferrer">
-                <div className="bringer-icon-box bringer-block">
+                <div className="bringer-icon-box bringer-block !gap-y-8">
                   <h4>UI/UX - Figma<span className="bringer-accent">.</span></h4>
                   <p className="bringer-large-text">
                     Experience: 1 to 4+ Years <br />
                     Location: Remote / Work From Home / Hybrid <br />
                     Salary: As per industry standard / Negotiable
+                      <br/>
+                  <a href='#form' className='text-white'>  <Button className="mt-4 text-center px-5" > Apply Now </Button> </a>
+                  
                   </p>
                 </div>
               </a>
               <a href="https://www.linkedin.com/company/scale-us-technologies/jobs/" target="_blank" rel="noopener noreferrer">
-                <div className="bringer-icon-box bringer-block">
+                <div className="bringer-icon-box bringer-block !gap-y-8">
                   <h4>Social Media Marketing<span className="bringer-accent">.</span></h4>
                   <p className="bringer-large-text">
                     Experience: 1 to 4+ Years <br />
                     Location: Remote / Work From Home / Hybrid <br />
                     Salary: As per industry standard / Negotiable
+                      <br/>
+                  <a href='#form' className='text-white'>  <Button className="mt-4 text-center px-5" > Apply Now </Button> </a>
+                  
                   </p>
                 </div>
               </a>
 
                <a href="https://www.linkedin.com/company/scale-us-technologies/jobs/" target="_blank" rel="noopener noreferrer">
-                <div className="bringer-icon-box bringer-block">
+                <div className="bringer-icon-box bringer-block !gap-y-8">
                   <h4>IT Sales<span className="bringer-accent">.</span></h4>
                   <p className="bringer-large-text">
                     Experience: 1 to 4+ Years <br />
                     Location: Remote / Work From Home / Hybrid <br />
                     Salary: As per industry standard / Negotiable
+                      <br/>
+                   <a href='#form' className='text-white'>  <Button className="mt-4 text-center px-5" > Apply Now </Button> </a>
+                  
                   </p>
                 </div>
               </a>
               <a href="https://www.linkedin.com/company/scale-us-technologies/jobs/" target="_blank" rel="noopener noreferrer">
-                <div className="bringer-icon-box bringer-block">
+                <div className="bringer-icon-box bringer-block !gap-y-8">
                   <h4>Flutter Developer<span className="bringer-accent">.</span></h4>
                   <p className="bringer-large-text">
                     Experience: 1 to 4+ Years <br />
                     Location: Remote / Work From Home / Hybrid <br />
                     Salary: As per industry standard / Negotiable
+                      <br/>
+                <a href='#form' className='text-white'>  <Button className="mt-4 text-center px-5" > Apply Now </Button> </a>
+                  
                   </p>
                 </div>
               </a>
             </div>
           </section>
 
-          <section className="backlight-top is-fullwidth" data-unload="fade-down">
+          <section className="backlight-top is-fullwidth" id='form' data-unload="fade-down">
             <div className="stg-row stg-valign-middle stg-cta-with-image stg-tp-column-reverse">
               <div className="stg-col-5" data-unload="fade-left">
                 <div

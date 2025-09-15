@@ -122,7 +122,7 @@ export default function ContactUs() {
               </div>
             </div>
             <div className="bringer-parallax-media" data-parallax-speed="20" data-appear="fade-up" data-delay="200" data-unload="fade-up">
-              <Image className="bringer-lazy" src="/img/null.png" data-src="/img/inner-pages/contacts01.webp" alt="Get in Touch" width="1920" height="960" />
+              <Image className="bringer-lazy" src="/img/inner-pages/contacts01.webp" data-src="/img/inner-pages/contacts01.webp" alt="Get in Touch" width="1920" height="960" />
             </div>
           </section>
 
