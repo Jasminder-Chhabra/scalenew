@@ -80,7 +80,7 @@ const Section6 = () => {
                 >
                   <Image
                     className="bringer-lazy"
-                    src="/img/null.png"
+                    src="/img/about-scaleus1.svg"
                     data-src="/img/about-scaleus1.svg"
                     alt="Product 04"
                     width="1200"
@@ -95,7 +95,7 @@ const Section6 = () => {
                 >
                   <Image
                     className="bringer-lazy"
-                    src="/img/null.png"
+                    src="/img/about-scaleus2.svg"
                     data-src="/img/about-scaleus2.svg"
                     alt="Product 08"
                     width="1200"

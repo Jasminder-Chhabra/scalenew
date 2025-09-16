@@ -611,7 +611,7 @@ export default function AboutUs() {
                 <div className="bringer-carousel-card-image">
                   <Image
                     className="bringer-lazy"
-                    src="/img/null.png"
+                    src="/img/team/team04.webp"
                     data-src="/img/team/team04.webp"
                     alt="Vidhi Chhabra"
                     width="600"
@@ -638,7 +638,7 @@ export default function AboutUs() {
                 <div className="bringer-carousel-card-image">
                   <Image
                     className="bringer-lazy"
-                    src="/img/null.png"
+                    src="/img/team/team02.webp"
                     data-src="/img/team/team02.webp"
                     alt="Jaspal Singh"
                     width="600"
@@ -665,7 +665,7 @@ export default function AboutUs() {
                 <div className="bringer-carousel-card-image">
                   <Image
                     className="bringer-lazy"
-                    src="/img/null.png"
+                    src="/img/team/team01.webp"
                     data-src="/img/team/team01.webp"
                     alt="Jasminder Singh"
                     width="600"
@@ -692,7 +692,7 @@ export default function AboutUs() {
                 <div className="bringer-carousel-card-image">
                   <Image
                     className="bringer-lazy"
-                    src="/img/null.png"
+                    src="/img/team/team02.webp"
                     data-src="/img/team/team02.webp"
                     alt="Jaspal Singh"
                     width="600"
@@ -719,7 +719,7 @@ export default function AboutUs() {
                 <div className="bringer-carousel-card-image">
                   <Image
                     className="bringer-lazy"
-                    src="/img/null.png"
+                    src="/img/team/team03.webp"
                     data-src="/img/team/team03.webp"
                     alt="Harjeet Kaur"
                     width="600"
@@ -746,7 +746,7 @@ export default function AboutUs() {
                 <div className="bringer-carousel-card-image">
                   <Image
                     className="bringer-lazy"
-                    src="/img/null.png"
+                    src="/img/team/team04.webp"
                     data-src="/img/team/team04.webp"
                     alt="Vidhi Chhabra"
                     width="600"
@@ -773,7 +773,7 @@ export default function AboutUs() {
                 <div className="bringer-carousel-card-image">
                   <Image
                     className="bringer-lazy"
-                    src="/img/null.png"
+                    src="/img/team/team01.webp"
                     data-src="/img/team/team01.webp"
                     alt="Jasminder Singh"
                     width="600"

@@ -330,7 +330,7 @@ console.log(formData)
             </div>
           </section>
 
-          <section className="backlight-top is-fullwidth" id='form' data-unload="fade-down">
+          <section className="backlight-top is-fullwidth"  data-unload="fade-down">
             <div className="stg-row stg-valign-middle stg-cta-with-image stg-tp-column-reverse">
               <div className="stg-col-5" data-unload="fade-left">
                 <div
@@ -340,6 +340,7 @@ console.log(formData)
                   data-threshold="0.25"
                 ></div>
               <form
+              id='form'
 onSubmit={handleSubmit} 
   className="bringer-contact-form bringer-block"
   data-fill-error="Please, fill out the contact form."

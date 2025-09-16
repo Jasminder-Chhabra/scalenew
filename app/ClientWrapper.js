@@ -3,10 +3,6 @@
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import "nprogress/nprogress.css";
-import "../public/css/config.css";
-import "../public/css/libs.css";
-import "../public/css/style.css";
-import "../public/css/responsive.css";
 
 export default function ClientWrapper({ children }) {
   const [isExiting, setIsExiting] = useState(false);

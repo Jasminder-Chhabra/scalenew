@@ -37,7 +37,7 @@ export default function FAQ() {
             <div className="bringer-parallax-media stg-bottom-gap-l" data-appear="fade-up" data-unload="fade-out">
               <Image
                 className="bringer-lazy"
-                src="/img/null.png"
+                src="/img/inner-pages/old img/faq-hero.jpg"
                 data-src="/img/inner-pages/old img/faq-hero.jpg"
                 alt="Questions and Answers"
                 width="1920"

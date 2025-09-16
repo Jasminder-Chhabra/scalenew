@@ -1,17 +1,11 @@
 // app/services/page.js
 "use client";
 
-import { useEffect } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
 import Script from 'next/script';
-import '../../../public/css/config.css';
-import '../../../public/css/libs.css';
-import '../../../public/css/style.css';
-import '../../../public/css/responsive.css';
 import Header from '@/components/Header';
 import Image from 'next/image';
-import "../.././globals.css"
 import { Preview } from '@/components/service/Service';
 import MobileServicesSection from '@/components/ui/DevelopmentWebsiteMobile';
 import AnimatedSection from '@/components/ui/DevelopmentService';
@@ -231,7 +225,7 @@ export default function Services() {
                  
                   <Image
                     className="bringer-lazy"
-                    src="/img/null.png"
+                    src={img}
                     data-src={img}
                     alt=""
                     width="600"
@@ -308,7 +302,7 @@ export default function Services() {
               <div className="bringer-parallax-media">
                 <Image
                   className="bringer-lazy md:h-[150px]"
-                  src="/img/null.png"
+                  src={item.img}
                   data-src={item.img}
                   alt={item.title}
                   
