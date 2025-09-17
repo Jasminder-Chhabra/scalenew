@@ -1,4 +1,4 @@
-// import { Scene } from "@/components/hero-section";
+
 import { Button } from "@/components/ui/button";
 import {  Cpu,  EarthLock,  Gem, Brain } from "lucide-react";
 import Link from "next/link";
