@@ -117,18 +117,18 @@ While almost 60% of workers worry about AI eliminating their jobs, less than one
     <div id="steps" className="text-white" ref={stepsRef}>
 <h2 className="text-4xl font-bold my-2 mb-6 "  data-appear="fade-up" data-unload="fade-up">New ways of working</h2>
 <ol className="list-decimal list-inside space-y-2 flex flex-col gap-4 mb-4 text-white"  data-appear="fade-down" data-unload="fade-up">
-  <li><strong>Sales at Scale Us:</strong> To better understand how gen AI can create enriching experiences and unlock people’s potential at work, we plugged into Scale US teams within the Sales function that are starting to infuse gen AI tools into everyday ways of working.
+  <li><strong>Sales at ScaleUs:</strong> To better understand how gen AI can create enriching experiences and unlock people’s potential at work, we plugged into ScaleUs teams within the Sales function that are starting to infuse gen AI tools into everyday ways of working.
 Team members were first actively engaged in rethinking their processes and workflows (since they know the work best), and then they helped design and implement the tools. By utilizing gen AI to draft and update proposals, these sales professionals saw marked increases in areas such as productivity, confidence, ability to create real impact through their work and enhanced ability to manage stress at work.
 </li>
 <li><strong>Marketing at a US consumer goods & services company:</strong> T“I see generative AI being your toolbox to do all the work that you’re doing today, but faster and better. As someone who works in the creative field, I do all the writing and I don’t think it would completely replace me. But I could use it for developing images or graphics or cool headlines, or helping me develop a project plan based off certain criteria. I’m still the leader of the ship, but the AI is a tool or a buddy or a direct report that I could use to help me get the work done with higher quality and speed,” says a marketing manager.
 </li>
 </ol>
- <h2 className="text-2xl font-bold my-2"  data-appear="fade-down" data-unload="fade-up">Continuous learning at scale Us</h2>
+ <h2 className="text-2xl font-bold my-2"  data-appear="fade-down" data-unload="fade-up">Continuous learning at ScaleUs</h2>
   <p>
 In a gen AI world, learning takes on new meaning. It’s continuous and integrated into the work you do every day. Nearly all workers surveyed (94%) reported being ready to learn gen AI skills, though just 5% of organizations are providing training at scale. With AI learning from both data and interactions with humans, who are responsible for ‘teaching’ the machines, building that capability and fostering a ‘teach to learn’ culture is paramount.
 <br/>
 <br/>
-For example, Scale Us ‘Technology Quotient’ learning series builds broad-based fluency around the hottest technology topics for all our people. Approximately 600,000 of our people are already trained in data and AI fundamentals. This goes a long way in embedding gen AI it into how we deliver our services and in how we operate.
+For example, ScaleUs ‘Technology Quotient’ learning series builds broad-based fluency around the hottest technology topics for all our people. Approximately 600,000 of our people are already trained in data and AI fundamentals. This goes a long way in embedding gen AI it into how we deliver our services and in how we operate.
 <br/>
 <br/>
 As you look to grow your career in a gen AI world, it’s all about being open, agile and quick to learn.

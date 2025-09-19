@@ -30,7 +30,7 @@ export default function blog({params}) {
            <meta property="og:title" content="Careers - Scale Us" />
            <meta
              property="og:description"
-             content="Join Scale Us Technologies and ignite your future with exciting career opportunities in web and mobile app development, UI/UX design, and more."
+             content="Join ScaleUs Technologies and ignite your future with exciting career opportunities in web and mobile app development, UI/UX design, and more."
            />
            <meta property="og:image" content="https://www.scaleus.in/img/favicon.svg" />
            <meta property="og:image:alt" content="Scale Us Technologies Logo" />

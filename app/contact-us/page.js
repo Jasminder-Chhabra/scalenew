@@ -137,7 +137,7 @@ export default function ContactUs() {
             <div className="stg-row stg-bottom-gap-l">
               <div className="stg-col-6 stg-offset-6" data-appear="fade-up" data-delay="200" data-unload="fade-up">
                 <p>
-                  At Scale US, we believe in the power of collaboration and shared passion. We're not just a tech partner; we're dedicated to igniting your brand's unique potential. Whether you're full of ideas or just starting out, reach out and let's chat!
+                  At ScaleUs, we believe in the power of collaboration and shared passion. We're not just a tech partner; we're dedicated to igniting your brand's unique potential. Whether you're full of ideas or just starting out, reach out and let's chat!
                 </p>
               </div>
             </div>

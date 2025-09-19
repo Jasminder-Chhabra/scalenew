@@ -18,7 +18,7 @@ const Footer = () => {
                     <img src="/img/Scale Us Logo.svg" alt="Scale-Us-Logo" width="200" height="88" />
                   </Link>
                   <div className="bringer-info-description" data-appear="fade-up" data-unload="fade-down">
-                    We are a passionate team at Scale Us, dedicated to empowering individuals and businesses through creative digital solutions. We specialize in creating compelling online presences that showcase your work and convey your unique story.
+                    We are a passionate team at ScaleUs, dedicated to empowering individuals and businesses through creative digital solutions. We specialize in creating compelling online presences that showcase your work and convey your unique story.
                   </div>
                   <span className="bringer-label" data-appear="fade-up" data-unload="fade-down">Follow us:</span>
                   <ul

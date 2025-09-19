@@ -19,9 +19,9 @@ export default function Services() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"
-          content="Explore the range of services offered by Scale Us Technologies, including IT software development, mobile app development, and website development."
+          content="Explore the range of services offered by ScaleUs Technologies, including IT software development, mobile app development, and website development."
         />
-        <title>Services - Scale Us</title>
+        <title>Services - ScaleUs</title>
         <script type="application/ld+json">
           {JSON.stringify({
             '@context': 'https://schema.org',
@@ -30,13 +30,13 @@ export default function Services() {
             logo: 'https://www.scaleus.in/img/favicon.svg',
           })}
         </script>
-        <meta property="og:title" content="Services - Scale Us" />
+        <meta property="og:title" content="Services - ScaleUs" />
         <meta
           property="og:description"
-          content="Explore the range of services offered by Scale Us Technologies, including IT software development, mobile app development, and website development."
+          content="Explore the range of services offered by ScaleUs Technologies, including IT software development, mobile app development, and website development."
         />
         <meta property="og:image" content="https://www.scaleus.in/img/favicon.svg" />
-        <meta property="og:image:alt" content="Scale Us Technologies Logo" />
+        <meta property="og:image:alt" content="ScaleUs Technologies Logo" />
         <meta property="og:url" content="https://www.scaleus.in/services" />
         <meta property="og:type" content="website" />
         <link rel="icon" href="/img/favicon.svg" sizes="32x32" />
@@ -172,7 +172,7 @@ export default function Services() {
             <div className="stg-row stg-bottom-gap">
               <div className="stg-col-6" data-unload="fade-left">
                 <h2 className="stg-bottom-gap" data-split-appear="fade-up">
-                  Discover the spark ✨ with Scale Us Services.
+                  Discover the spark ✨ with ScaleUs Services.
                 </h2>
               </div>
               <div className="stg-col-6"></div>
@@ -201,7 +201,7 @@ export default function Services() {
                 data-unload="fade-right"
               >
                 <p className="bringer-large-text">
-                  Unleash your brand's full potential with Scale Us. We provide the fuel, the spark, and the expert guidance to watch your brand captivate the world. Explore our services and discover how Scale Us can help you achieve your goals.
+                  Unleash your brand's full potential with ScaleUs. We provide the fuel, the spark, and the expert guidance to watch your brand captivate the world. Explore our services and discover how ScaleUs can help you achieve your goals.
                 </p>
               </div>
             </div>
@@ -464,7 +464,7 @@ export default function Services() {
                     data-delay="100"
                     data-unload="fade-up"
                   >
-                    We are a passionate team at Scale Us who believes in the power of creativity. We empower businesses to establish a compelling online presence that showcases their achievements and narratives effectively.
+                    We are a passionate team at ScaleUs who believe in the power of creativity. We empower businesses to establish a compelling online presence that showcases their achievements and narratives effectively.
                   </p>
                 </div>
               </div>
@@ -482,7 +482,7 @@ export default function Services() {
                   <span className="bringer-accent">.</span>
                 </h4>
                 <p>
-                  At Scale US, we unleash creative firestorms. Our approach goes beyond conventional boundaries to push the limits of innovation. We're passionate about crafting dynamic and transformative solutions that inspire, captivate, and drive measurable success for our clients. From conceptualization to execution, we ignite creativity to deliver impactful outcomes that redefine possibilities in digital solutions.
+                  At ScaleUs, we unleash creative firestorms. Our approach goes beyond conventional boundaries to push the limits of innovation. We're passionate about crafting dynamic and transformative solutions that inspire, captivate, and drive measurable success for our clients. From conceptualization to execution, we ignite creativity to deliver impactful outcomes that redefine possibilities in digital solutions.
                 </p>
               </div>
               <div className="bringer-block">
@@ -491,7 +491,7 @@ export default function Services() {
                   <span className="bringer-accent">.</span>
                 </h4>
                 <p>
-                  At Scale US, we integrate advanced analytics with strategic expertise to ensure our tech solutions are both innovative and meticulously executed. This approach guarantees that our solutions not only meet but exceed expectations, delivering impactful results for your business.
+                  At ScaleUs, we integrate advanced analytics with strategic expertise to ensure our tech solutions are both innovative and meticulously executed. This approach guarantees that our solutions not only meet but exceed expectations, delivering impactful results for your business.
                 </p>
               </div>
               <div className="bringer-block">
@@ -500,7 +500,7 @@ export default function Services() {
                   <span className="bringer-accent">.</span>
                 </h4>
                 <p>
-                  At Scale US, we create immersive digital experiences that resonate deeply with your audience, leveraging innovative solutions to drive engagement and foster lasting connections.
+                  At ScaleUs, we create immersive digital experiences that resonate deeply with your audience, leveraging innovative solutions to drive engagement and foster lasting connections.
                 </p>
               </div>
               <div className="bringer-block">
@@ -508,7 +508,7 @@ export default function Services() {
                   We don't just work with you, we become your <span className="bringer-accent">tech champions</span>.
                 </h4>
                 <p>
-                  At Scale US, we become your tech champions. Our dedicated team goes beyond partnership to champion your technological goals, offering expertise, innovation, and unwavering support. Together, we navigate challenges, seize opportunities, and achieve success, ensuring your business thrives in the digital landscape.
+                  At ScaleUs, we become your tech champions. Our dedicated team goes beyond partnership to champion your technological goals, offering expertise, innovation, and unwavering support. Together, we navigate challenges, seize opportunities, and achieve success, ensuring your business thrives in the digital landscape.
                 </p>
               </div>
             </div>
@@ -533,7 +533,7 @@ export default function Services() {
               <div className="bringer-masked-block bringer-grid-more-masked">
                 <div className="bringer-block stg-aspect-square stg-vertical-space-between is-accented bringer-masked-media">
                   <h5>A brand isn't just a name<span className="bringer-accent">.</span></h5>
-                  <p className="bringer-large-text">It's a movement. 👉 Let Scale Us ignite it.</p>
+                  <p className="bringer-large-text">It's a movement. 👉 Let ScaleUs ignite it.</p>
                 </div>
                 <div className="bringer-masked-content at-bottom-right">
                   <span className="bringer-square-button is-secondary">

@@ -13,10 +13,10 @@ export default function Policy() {
     <Head>
            <meta charSet="UTF-8" />
            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-           <title>Privacy Policy - Scale Us</title>
+           <title>Privacy Policy - ScaleUs</title>
            <meta    
              name="description"
-             content="Join Scale Us Technologies and ignite your future with exciting career opportunities in web and mobile app development, UI/UX design, and more."
+             content="Join ScaleUs Technologies and ignite your future with exciting career opportunities in web and mobile app development, UI/UX design, and more."
            />
            <script type="application/ld+json">
              {JSON.stringify({
@@ -26,13 +26,13 @@ export default function Policy() {
                logo: 'https://www.scaleus.in/img/favicon.svg',
              })}
            </script>
-           <meta property="og:title" content="Careers - Scale Us" />
+           <meta property="og:title" content="Careers - ScaleUs" />
            <meta
              property="og:description"
-             content="Join Scale Us Technologies and ignite your future with exciting career opportunities in web and mobile app development, UI/UX design, and more."
+             content="Join ScaleUs Technologies and ignite your future with exciting career opportunities in web and mobile app development, UI/UX design, and more."
            />
            <meta property="og:image" content="https://www.scaleus.in/img/favicon.svg" />
-           <meta property="og:image:alt" content="Scale Us Technologies Logo" />
+           <meta property="og:image:alt" content="ScaleUs Technologies Logo" />
            <meta property="og:url" content="https://www.scaleus.in/career" />
            <meta property="og:type" content="website" />
            <link rel="icon" href="/img/favicon.svg" sizes="32x32" />
@@ -140,7 +140,7 @@ export default function Policy() {
                 <h1 className="bringer-page-title" data-appear="fade-up" data-unload="fade-up">Privacy Policy
 </h1>
                 <p className="bringer-large-text" data-appear="fade-up" data-unload="fade-up">
-At Scale Us, accessible from <Link href="https://scaleus.in/" >https://scaleus.in/</Link> one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Scale Us and how we use it.
+At ScaleUs, accessible from <Link href="https://scaleus.in/" >https://scaleus.in/</Link> one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by ScaleUs and how we use it.
 
 
 
@@ -153,7 +153,7 @@ At Scale Us, accessible from <Link href="https://scaleus.in/" >https://scaleus.i
  <div className="mb-8"  data-appear="fade-up" data-unload="fade-up">
         <h2 className="text-3xl font-semibold mb-2 text-md">Consent</h2>
         <p  data-appear="fade-up" data-unload="fade-up">
-         This privacy notice for Scale Us, Inc. ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
+         This privacy notice for ScaleUs, Inc. ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 
 Visit our website at <Link href="https://scaleus.in/" >https://scaleus.in/</Link>, or any website of ours that links to this privacy notice
 
@@ -170,26 +170,26 @@ Questions or concerns? Reading this privacy notice will help you understand your
 </p>
 
 <p  data-appear="fade-up" data-unload="fade-up">
-    When you voluntarily provide it to us, such as when you register for an account with your email and password, or by using a social login (“Scale Us Login Credentials”), send us an email or post information or other content to our Site or Service;
-When you connect a Third Party Platform with your Scale Us account we will receive information from that service (such as your username, basic profile information) via the authorization procedures used by that service. Any additional information we receive depends on which services you authorize and any options that are available;
+    When you voluntarily provide it to us, such as when you register for an account with your email and password, or by using a social login (“ScaleUs Login Credentials”), send us an email or post information or other content to our Site or Service;
+When you connect a Third Party Platform with your ScaleUs account we will receive information from that service (such as your username, basic profile information) via the authorization procedures used by that service. Any additional information we receive depends on which services you authorize and any options that are available;
 If you purchase a subscription to the Service requiring billing or payment information, we require that you provide certain additional Personal Information, including your address, phone number, and credit card number (“Payment Information”). This information is necessary to process your requests and to contact you; and
 When you accept another user’s invitation to connect on the Service.
 When you utilize the Service, we also receive certain other information about you or your use of the Service. Such other information may be collected using various technologies, including:
 </p>
 
-<p  data-appear="fade-up" data-unload="fade-up"><strong className='text-white'>Logs: </strong>We track the data you see in Scale Us and how you interact with it by automatically collecting certain information such as, the pages you visit or features you use within the Service, the date and time of your activities on the Service, the URLs from the websites you visit before and after navigating to the Service, your software and hardware attributes (including operating system type and version, App version, device type, and device identifiers, including IDFA and/or Advertising IDs), your browser type and version, and your general geographic location derived through your IP address (e.g., your city, state, or metropolitan region). To obtain such information, we may use web logs or applications that recognize your device and gather information about its online activity. We treat this information as confidential if we combine it with or link it to any of your personal information. We use tracking data about individuals to inform us about how Scale Us is being used to help us provide a better user experience.</p>
+<p  data-appear="fade-up" data-unload="fade-up"><strong className='text-white'>Logs: </strong>We track the data you see in ScaleUs and how you interact with it by automatically collecting certain information such as, the pages you visit or features you use within the Service, the date and time of your activities on the Service, the URLs from the websites you visit before and after navigating to the Service, your software and hardware attributes (including operating system type and version, App version, device type, and device identifiers, including IDFA and/or Advertising IDs), your browser type and version, and your general geographic location derived through your IP address (e.g., your city, state, or metropolitan region). To obtain such information, we may use web logs or applications that recognize your device and gather information about its online activity. We treat this information as confidential if we combine it with or link it to any of your personal information. We use tracking data about individuals to inform us about how ScaleUs is being used to help us provide a better user experience.</p>
 
 <p  data-appear="fade-up" data-unload="fade-up">
-    <strong className='text-white'>Cookies: </strong>Like almost all websites today, Scale Us uses cookies to determine whether you are logged in on your device and to recognize repeat visitors. We send cookies to your device in order to uniquely identify your browser and improve the quality of our Service. Cookies are small pieces of information that a website sends to your device's hard drive while you are viewing a site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). If you wish to restrict or block the cookies that are set by Scale Us, or by any other website, you can do this through your browser settings. Please note, if you choose to disable cookies, some of our Service may not work properly or at all.
+    <strong className='text-white'>Cookies: </strong>Like almost all websites today, ScaleUs uses cookies to determine whether you are logged in on your device and to recognize repeat visitors. We send cookies to your device in order to uniquely identify your browser and improve the quality of our Service. Cookies are small pieces of information that a website sends to your device's hard drive while you are viewing a site. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them). If you wish to restrict or block the cookies that are set by ScaleUs, or by any other website, you can do this through your browser settings. Please note, if you choose to disable cookies, some of our Service may not work properly or at all.
 </p>
 <p  data-appear="fade-up" data-unload="fade-up">
     <strong className='text-white'> Web beacons:</strong> The Service or the emails that you receive from us may use an application known as a “web beacon” (also known as a “clear gif” or “pixel tag”). A web beacon is an electronic file that usually consists of a single-pixel image. It can be embedded in a web page or in an email to transmit information. For example, it allows an email sender to determine whether a user has opened a particular email.
 Local storage: We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
-Scale Us keeps personal information contained in your cookies and obtained through the other tracking technologies confidential. We do not set any cookies outside of the Scale Us.me or Scale Us.com domains or subdomains.
+ScaleUs keeps personal information contained in your cookies and obtained through the other tracking technologies confidential. We do not set any cookies outside of the ScaleUs.me or ScaleUs.com domains or subdomains.
 </p>
 <p  data-appear="fade-up" data-unload="fade-up">
     
-We also may partner with certain third parties to collect, analyze, and use some of the Personal and other information described in this section. For example, we may allow third parties to set cookies or use web beacons on the Service or in email communications from Scale Us.
+We also may partner with certain third parties to collect, analyze, and use some of the Personal and other information described in this section. For example, we may allow third parties to set cookies or use web beacons on the Service or in email communications from ScaleUs.
 </p>
       </div>
 
@@ -224,14 +224,14 @@ We also may partner with certain third parties to collect, analyze, and use some
       <div className="mb-8"  data-appear="fade-up" data-unload="fade-up">
         <h2 className="text-3xl font-semibold mb-2 text-md">Log Files</h2>
         <p  data-appear="fade-up" data-unload="fade-up">
-          Scale Us follows standard procedures using log files. These files log visitors when they visit websites — including IP address, browser type, ISP, date/time, referring/exit pages, and number of clicks. This data is not linked to personal identity and is used for trends, administration, tracking, and demographics.
+          ScaleUs follows standard procedures using log files. These files log visitors when they visit websites — including IP address, browser type, ISP, date/time, referring/exit pages, and number of clicks. This data is not linked to personal identity and is used for trends, administration, tracking, and demographics.
         </p>
       </div>
 
       <div className="mb-8"  data-appear="fade-up" data-unload="fade-up">
         <h2 className="text-3xl font-semibold mb-2 text-md">Cookies and Web Beacons</h2>
         <p  data-appear="fade-up" data-unload="fade-up">
-          Like most websites, Scale Us uses cookies to store visitor preferences and accessed pages to enhance user experience.
+          Like most websites, ScaleUs uses cookies to store visitor preferences and accessed pages to enhance user experience.
           For general cookie info, see <Link href="https://www.cookieconsent.com/what-are-cookies/" className="text-purple-600 underline">What Are Cookies</Link>.
         </p>
       </div>
@@ -242,7 +242,7 @@ We also may partner with certain third parties to collect, analyze, and use some
           Our advertising partners may use cookies, JavaScript, or Web Beacons in their ads and links. These are sent to your browser and automatically receive your IP address.
         </p>
         <p  data-appear="fade-up" data-unload="fade-up">
-          Scale Us has no access to or control over cookies used by third-party advertisers.
+          ScaleUs has no access to or control over cookies used by third-party advertisers.
         </p>
       </div>
 
@@ -291,14 +291,14 @@ We also may partner with certain third parties to collect, analyze, and use some
           We prioritize protecting children online. We encourage parents to observe and guide their children's internet activity.
         </p>
         <p  data-appear="fade-up" data-unload="fade-up">
-          Scale Us does not knowingly collect data from children under 13. If you believe your child provided such data, contact us and we will remove it promptly.
+          ScaleUs does not knowingly collect data from children under 13. If you believe your child provided such data, contact us and we will remove it promptly.
         </p>
       </div>
 
       <div className="mb-8"  data-appear="fade-up" data-unload="fade-up">
         <h2 className="text-3xl font-semibold mb-2 text-md">Website Development Partner</h2>
         <p  data-appear="fade-up" data-unload="fade-up">
-          Website development and tech partner: <strong >Scale Us Technologies LLP</strong>.
+          Website development and tech partner: <strong >ScaleUs Technologies LLP</strong>.
         </p>
       </div>
 

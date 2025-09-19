@@ -27,9 +27,9 @@ export default function AboutUs() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"
-          content="Learn about Scale Us Technologies, a dynamic IT software development and mobile app, website development startup. Discover our mission, vision, and the dedicated team behind our innovative solutions."
+          content="Learn about ScaleUs Technologies, a dynamic IT software development and mobile app, website development startup. Discover our mission, vision, and the dedicated team behind our innovative solutions."
         />
-        <title>About Us - Scale Us</title>
+        <title>About Us - ScaleUs</title>
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap"
           rel="stylesheet"
@@ -212,7 +212,7 @@ export default function AboutUs() {
                   data-split-unload="fade-up"
                   data-delay="100"
                 >
-                  We are a passionate team at Scale Us, dedicated to harnessing
+                  We are a passionate team at ScaleUs, dedicated to harnessing
                   the power ✨ of creativity through innovative technology
                   solutions.
                 </p>
@@ -392,7 +392,7 @@ export default function AboutUs() {
                 data-delay="100"
               >
                 <p>
-                  At Scale US, we are more than creatives; we are brand
+                  At ScaleUs, we are more than creatives; we are brand
                   strategists and digital architects. We take your vision,
                   infuse it with strategic insight, and create compelling
                   experiences that captivate audiences and drive engagement. We
@@ -401,7 +401,7 @@ export default function AboutUs() {
                 </p>
                 <p>
                   We are a team of passionate and experienced professionals at
-                  Scale US, dedicated to helping businesses achieve their goals
+                  ScaleUs, dedicated to helping businesses achieve their goals
                   through creativity and innovation. We believe in unleashing
                   our clients' full potential, crafting solutions that drive
                   success and growth.
@@ -510,7 +510,7 @@ export default function AboutUs() {
                 data-delay="100"
                 data-unload="fade-up"
               >
-                At Scale Us, we believe in the power of:
+                At ScaleUs, we believe in the power of:
               </p>
             </div>
             <div
@@ -585,7 +585,7 @@ export default function AboutUs() {
                     data-delay="100"
                   >
                     We are a team of passionate and experienced professionals at
-                    Scale US, dedicated to helping businesses achieve their
+                    ScaleUs, dedicated to helping businesses achieve their
                     goals through innovative solutions and expert guidance.
                   </p>
                 </div>
@@ -818,7 +818,7 @@ export default function AboutUs() {
                     data-delay="100"
                     data-unload="fade-up"
                   >
-                    We are a passionate team at Scale Us who believes in the
+                    We are a passionate team at ScaleUs who believe in the
                     power of creativity. We empower businesses to establish a
                     compelling online presence that showcases their achievements
                     and narratives effectively.
@@ -840,7 +840,7 @@ export default function AboutUs() {
                   firestorms<span className="bringer-accent">.</span>
                 </h4>
                 <p>
-                  At Scale Us, we unleash creative firestorms. Our approach goes
+                  At ScaleUs, we unleash creative firestorms. Our approach goes
                   beyond conventional boundaries to push the limits of
                   innovation. We're passionate about crafting dynamic and
                   transformative solutions that inspire, captivate, and drive
@@ -856,7 +856,7 @@ export default function AboutUs() {
                   <span className="bringer-accent">.</span>
                 </h4>
                 <p>
-                  At Scale Us, we integrate advanced analytics with strategic
+                  At ScaleUs, we integrate advanced analytics with strategic
                   expertise to ensure our tech solutions are both innovative and
                   meticulously executed. This approach guarantees that our
                   solutions not only meet but exceed expectations, delivering
@@ -871,7 +871,7 @@ export default function AboutUs() {
                   <span className="bringer-accent">.</span>
                 </h4>
                 <p>
-                  At Scale Us, we create immersive digital experiences that
+                  At ScaleUs, we create immersive digital experiences that
                   resonate deeply with your audience, leveraging innovative
                   solutions to drive engagement and foster lasting connections.
                 </p>
@@ -882,7 +882,7 @@ export default function AboutUs() {
                   <span className="bringer-accent">tech champions.</span>
                 </h4>
                 <p>
-                  At Scale Us, we become your tech champions. Our dedicated team
+                  At ScaleUs, we become your tech champions. Our dedicated team
                   goes beyond partnership to champion your technological goals,
                   offering expertise, innovation, and unwavering support.
                   Together, we navigate challenges, seize opportunities, and
@@ -989,7 +989,7 @@ export default function AboutUs() {
                 <Link
                   href="/contact-us"
                   className="bringer-square-button"
-                  aria-label="Contact Scale Us"
+                  aria-label="Contact ScaleUs"
                 >
                   <span className="bringer-icon bringer-icon-explore"></span>
                 </Link>

@@ -35,7 +35,7 @@ function WorldMapDemoComponent() {
           Our Clients across the world
         </div>
         <div className="text-sm md:text-lg text-neutral-500 py-4">
-          At Scale Us, we proudly collaborate with clients across the globe,
+          At ScaleUs, we proudly collaborate with clients across the globe,
           delivering scalable digital solutions that drive growth and innovation.
           Our global partnerships reflect our commitment to quality, performance,
           and lasting impact.

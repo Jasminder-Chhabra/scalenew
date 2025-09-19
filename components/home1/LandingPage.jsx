@@ -125,7 +125,7 @@ export default function LandingPage() {
               >
                 <div>
                   <h3 data-appear="fade-up" data-unload="fade-down">
-                    Welcome to Scale Us, where creativity meets expertise.
+                    Welcome to ScaleUs, where creativity meets expertise.
                   </h3>
                   <p
                     className="bringer-large-text"
@@ -135,7 +135,7 @@ export default function LandingPage() {
                     Your Trusted Technology Partner
                   </p>
                   <p data-appear="fade-up" data-unload="fade-down">
-                    Scale Us Technologies is an Indian web-based company Technology
+                    ScaleUs Technologies is an Indian web-based company Technology
                     dedicated to empowering businesses through cutting-edge
                     technology.
                   </p>
@@ -614,7 +614,7 @@ export default function LandingPage() {
                       <span className="bringer-accent">.</span>
                     </h4>
                     <p>
-                      At Scale Us, we infuse your brand with bold ideas and
+                      At ScaleUs, we infuse your brand with bold ideas and
                       strategic brilliance.
                     </p>
                   </div>
@@ -858,7 +858,7 @@ export default function LandingPage() {
                     data-threshold="0.75"
                   >
                     <div className="bringer-tetimonials-card-descr">
-                      "Working with Scale Us has been transformative for our
+                      "Working with ScaleUs has been transformative for our
                       digital strategy."
                     </div>
                     <div className="bringer-tetimonials-card-footer">
@@ -880,7 +880,7 @@ export default function LandingPage() {
                     data-threshold="0.75"
                   >
                     <div className="bringer-tetimonials-card-descr">
-                      "Scale Us exceeded our expectations with their mobile app
+                      "ScaleUs exceeded our expectations with their mobile app
                       development services."
                     </div>
                     <div className="bringer-tetimonials-card-footer">

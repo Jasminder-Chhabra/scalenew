@@ -147,7 +147,7 @@ export default function partner() {
                 <h1 className="bringer-page-title" data-appear="fade-up" data-unload="fade-up"> Blog
 </h1>
                 <p className="bringer-large-text text-center " data-appear="fade-up" data-unload="fade-up" data-delay="100">
-Read the Scale Us blog to learn more about Scale Us newest Products and updates, and find out about the latest networking tips and tools.
+Read the ScaleUs blog to learn more about ScaleUs newest Products and updates, and find out about the latest networking tips and tools.
 
 
 

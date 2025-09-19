@@ -111,7 +111,7 @@ const Section6 = () => {
                   <h3>Your Partner in Digital Innovation</h3>
                   <p>
                     We are a team of passionate and experienced tech experts at
-                    Scale Us, dedicated to helping businesses.
+                    ScaleUs, dedicated to helping businesses.
                   </p>
                 </div>
               </div>

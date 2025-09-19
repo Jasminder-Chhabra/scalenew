@@ -35,7 +35,7 @@ const CompanyMenu = () => {
             <div className="flex items-start gap-3 px-3 py-2 rounded-lg hover:bg-white/5 transition-colors  duration-200">
               <Info className="w-5 h-5 mt-1" strokeWidth={1}   />
               <Link href='/about-us'>
-                <p className="font-medium mb-0">About Scale Us</p>
+                <p className="font-medium mb-0">About ScaleUs</p>
                 <p className="text-[13px] text-gray-400">Who we are</p>
               </Link>
             </div>

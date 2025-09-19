@@ -154,7 +154,7 @@ export default function Portfolio() {
                     data-appear="fade-up"
                     data-unload="fade-up"
                   >
-                    Scale Us Portfolio
+                    ScaleUs Portfolio
                   </h1>
                   <p
                     className="bringer-large-text"

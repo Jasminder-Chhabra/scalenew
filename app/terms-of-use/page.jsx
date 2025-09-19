@@ -13,10 +13,10 @@ export default function Terms() {
     <Head>
            <meta charSet="UTF-8" />
            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-           <title>Terms of Use - Scale Us</title>
+           <title>Terms of Use - ScaleUs</title>
            <meta    
              name="description"
-             content="Join Scale Us Technologies and ignite your future with exciting career opportunities in web and mobile app development, UI/UX design, and more."
+             content="Join ScaleUs Technologies and ignite your future with exciting career opportunities in web and mobile app development, UI/UX design, and more."
            />
            <script type="application/ld+json">
              {JSON.stringify({
@@ -26,13 +26,13 @@ export default function Terms() {
                logo: 'https://www.scaleus.in/img/favicon.svg',
              })}
            </script>
-           <meta property="og:title" content="Careers - Scale Us" />
+           <meta property="og:title" content="Careers - ScaleUs" />
            <meta
              property="og:description"
-             content="Join Scale Us Technologies and ignite your future with exciting career opportunities in web and mobile app development, UI/UX design, and more."
+             content="Join ScaleUs Technologies and ignite your future with exciting career opportunities in web and mobile app development, UI/UX design, and more."
            />
            <meta property="og:image" content="https://www.scaleus.in/img/favicon.svg" />
-           <meta property="og:image:alt" content="Scale Us Technologies Logo" />
+           <meta property="og:image:alt" content="ScaleUs Technologies Logo" />
            <meta property="og:url" content="https://www.scaleus.in/career" />
            <meta property="og:type" content="website" />
            <link rel="icon" href="/img/favicon.svg" sizes="32x32" />
@@ -144,7 +144,7 @@ export default function Terms() {
                 <h1 className="bringer-page-title" data-appear="fade-up" data-unload="fade-up">Terms Of Use
 </h1>
                 <p className="bringer-large-text" data-appear="fade-up" data-unload="fade-up">
-These terms and conditions outline the rules and regulations for the use of Scale Us Website, located at <Link href="https://scaleus.in">https://scaleus.in/</Link>. By accessing this website we assume you accept these terms and conditions. Do not continue to use Scale Us if you do not agree to take all of the terms and conditions stated on this page.
+These terms and conditions outline the rules and regulations for the use of ScaleUs Website, located at <Link href="https://scaleus.in">https://scaleus.in/</Link>. By accessing this website we assume you accept these terms and conditions. Do not continue to use ScaleUs if you do not agree to take all of the terms and conditions stated on this page.
                 </p>
               </div>
             </div>
@@ -165,29 +165,29 @@ These terms and conditions outline the rules and regulations for the use of Scal
 <p  data-appear="fade-up" data-unload="fade-up"><strong className='text-white'>Description of Services:</strong>The Services are software accessed over the internet and via mobile devices for the purpose of sharing, updating, storing, accessing and otherwise using your own contact information and the contact information of other people in your network.  </p>
 
 <p  data-appear="fade-up" data-unload="fade-up">
-    <strong className='text-white'>Your Registration Obligations: </strong>You are required to register with Scale Us in order to access and use the Service. If you choose to register for the Service, you agree to provide and maintain true, accurate, current and complete information about yourself as prompted by the Service's registration form. Registration data and certain other information about you are governed by our Privacy Notice. If you are under 13 years of age, you are not authorized to use the Service. In addition, if you are under 18 years old, you may use the Service only with the approval of your parent or guardian.
+    <strong className='text-white'>Your Registration Obligations: </strong>You are required to register with ScaleUs in order to access and use the Service. If you choose to register for the Service, you agree to provide and maintain true, accurate, current and complete information about yourself as prompted by the Service's registration form. Registration data and certain other information about you are governed by our Privacy Notice. If you are under 13 years of age, you are not authorized to use the Service. In addition, if you are under 18 years old, you may use the Service only with the approval of your parent or guardian.
 </p>
 <p  data-appear="fade-up" data-unload="fade-up">
-    <strong className='text-white'> Security of your account:</strong> TYou agree to be responsible for any act or omission of any users that access the Services under your account. You agree to immediately notify Scale Us of any breach of security of which you become aware.
-</p>
-
-<p  data-appear="fade-up" data-unload="fade-up">
-    <strong className='text-white'> Access to the Service:</strong>You are responsible for obtaining and maintaining any equipment and ancillary services needed to connect to, access or otherwise use the Service. You are responsible for ensuring that such equipment and services are compatible with the Service, and, to the extent applicable, the Software (as defined below), and complies with all configurations and specifications set forth in Scale Us's published policies then in effect.
+    <strong className='text-white'> Security of your account:</strong> TYou agree to be responsible for any act or omission of any users that access the Services under your account. You agree to immediately notify ScaleUs of any breach of security of which you become aware.
 </p>
 
 <p  data-appear="fade-up" data-unload="fade-up">
-    <strong className='text-white'>Modifications to the Service:</strong> Scale Us reserves the right to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice. You agree that Scale Us will not be liable to you or to any third party for any modification, suspension or discontinuance of the Service.
+    <strong className='text-white'> Access to the Service:</strong>You are responsible for obtaining and maintaining any equipment and ancillary services needed to connect to, access or otherwise use the Service. You are responsible for ensuring that such equipment and services are compatible with the Service, and, to the extent applicable, the Software (as defined below), and complies with all configurations and specifications set forth in ScaleUs's published policies then in effect.
 </p>
 
 <p  data-appear="fade-up" data-unload="fade-up">
-    <strong className='text-white'>General Practices Regarding Use and Storage:</strong>You acknowledge that Scale Us may establish general practices and limits concerning use of the Service, including without limitation the maximum period of time that data or other content will be retained by the Service and the maximum storage space that will be allotted on Scale Us's servers on your behalf. You agree that Scale Us has no responsibility or liability for the deletion or failure to store any data or other content maintained or uploaded by the Service. You acknowledge that Scale Us reserves the right to terminate accounts that are inactive for an extended period of time. You further acknowledge that Scale Us reserves the right to change these general practices and limits at any time, in its sole discretion, with or without notice.
+    <strong className='text-white'>Modifications to the Service:</strong> ScaleUs reserves the right to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice. You agree that ScaleUs will not be liable to you or to any third party for any modification, suspension or discontinuance of the Service.
+</p>
+
+<p  data-appear="fade-up" data-unload="fade-up">
+    <strong className='text-white'>General Practices Regarding Use and Storage:</strong>You acknowledge that ScaleUs may establish general practices and limits concerning use of the Service, including without limitation the maximum period of time that data or other content will be retained by the Service and the maximum storage space that will be allotted on ScaleUs's servers on your behalf. You agree that ScaleUs has no responsibility or liability for the deletion or failure to store any data or other content maintained or uploaded by the Service. You acknowledge that ScaleUs reserves the right to terminate accounts that are inactive for an extended period of time. You further acknowledge that ScaleUs reserves the right to change these general practices and limits at any time, in its sole discretion, with or without notice.
 </p>
       </div>
 
       <div className="mb-8"  data-appear="fade-up" data-unload="fade-up">
         <h2 className="text-3xl font-semibold mb-2 text-md">Cookies</h2>
         <p className="mb-2 text-md"  data-appear="fade-up" data-unload="fade-up">
-We employ the use of cookies. By accessing Scale Us, you agreed to use cookies in agreement with the Scale Us Privacy Policy.
+We employ the use of cookies. By accessing ScaleUs, you agreed to use cookies in agreement with the ScaleUs Privacy Policy.
 
         </p>
         <p className="mb-2 text-md"  data-appear="fade-up" data-unload="fade-up">
@@ -200,7 +200,7 @@ Most interactive websites use cookies to let us retrieve the user’s details fo
       <div className="mb-8"  data-appear="fade-up" data-unload="fade-up">
         <h2 className="text-3xl font-semibold mb-2 text-md">License</h2>
         <p  data-appear="fade-up" data-unload="fade-up">
-         Unless otherwise stated, Scale Us and/or its licensors own the intellectual property rights for all material on Scale Us. All intellectual property rights are reserved. You may access this from Scale Us for your own personal use subjected to restrictions set in these terms and conditions.
+         Unless otherwise stated, ScaleUs and/or its licensors own the intellectual property rights for all material on ScaleUs. All intellectual property rights are reserved. You may access this from ScaleUs for your own personal use subjected to restrictions set in these terms and conditions.
         </p>
       </div>
 
@@ -217,17 +217,17 @@ We may consider and approve other link requests from the following types of orga
 <br />
 1. commonly-known consumer and/or business information sources; 2. dot.com community sites; 3. associations or other groups representing charities; 4. online directory distributors; 5. internet portals; 6. accounting, law and consulting firms; and 7. educational institutions and trade associations.
 <br />
-We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of Scale Us; and (d) the link is in the context of general resource information.
+We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of ScaleUs; and (d) the link is in the context of general resource information.
 <br />
 These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site.
 <br />
-If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to Scale Us. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.
+If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to ScaleUs. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.
 <br />
  <h2 className="text-3xl font-semibold mb-2 text-md my-4">Approved organizations may hyperlink to our Website as follows:</h2>
 <br />
 1. By use of our corporate name; or 2. By use of the uniform resource locator being linked to; or 3. By use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party’s site.
 <br />
-No use of Scale Us logo or other artwork will be allowed for linking absent a trademark license agreement.
+No use of ScaleUs logo or other artwork will be allowed for linking absent a trademark license agreement.
         </p>
       </div>
 
@@ -269,7 +269,7 @@ We do not ensure that the information on this website is correct, we do not warr
 <br />
 The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.
 <br />
-As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature. Website Development and Partner: Scale Us Technologies LLP
+As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature. Website Development and Partner: ScaleUs Technologies LLP
         </p>
       </div>
 
